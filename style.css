@@ -274,7 +274,7 @@ form {
 .footer-section {
      background-color:black;
      color: white;
-     padding: 2rem 3rem;
+/*      padding: 2rem 3rem; */
 }
 .footer-top {
      display: flex;
